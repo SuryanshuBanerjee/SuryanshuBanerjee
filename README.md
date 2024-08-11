@@ -6,7 +6,7 @@
 </p>
 
 <p align="center" style="color: #000000;">
-  Hi. I'm <b>Suryanshu</b>. I'm interested in <span style="color: #1E90FF;">data analysis</span> and am currently learning <span style="color: #1E90FF;">GO</span>. Nobody cares but I am a certified pianist from <span style="color: #1E90FF;">Trinity College</span>.
+  Hi. I'm <b>Suryanshu</b>. I'm in the second year of my bachelors in information technology at KJSCE, Mumbai. I'm interested in <span style="color: #1E90FF;">data analysis, backend development and competitive programming</span> and am currently learning <span style="color: #1E90FF;">GO</span>. As for extracurriculars, nobody really cares but I <i>am</i> a certified pianist from <span style="color: #1E90FF;">Trinity College London</span>.
 </p>
 
 ## Contact Me
