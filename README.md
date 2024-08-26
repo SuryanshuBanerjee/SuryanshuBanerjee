@@ -33,5 +33,5 @@
 </p>
 
 <p align="center" style="font-size: 0.9em; color: #777; margin: 20px;">
-  <i>Crafted with dedication and care by Suryanshu</i>
+  <i>See you around...</i>
 </p>
