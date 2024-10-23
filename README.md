@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center" style="font-size: 1.2em; color: #333; max-width: 800px; margin: 20px auto; line-height: 1.6; text-align: justify;">
-  Hey. I’m <b>Suryanshu</b>, a second-year student pursuing a Bachelor's degree in Information Technology at KJSCE, Mumbai. I'm working towards mastering <span style="color: #e57373;">data analysis</span>, <span style="color: #e57373;">full stack development</span>, and <span style="color: #e57373;">competitive programming</span>. Additionally, I hold a certification in Piano from Trinity College London, reflecting my interest in both academics and the arts.
+  Hey. I’m <b>Suryanshu</b>, a second-year student pursuing a Bachelor's degree in Information Technology at KJSCE, Mumbai. I'm working towards mastering <span style="color: #e57373;">data analysis</span>, <span style="color: #e57373;">full stack development</span>, and <span style="color: #e57373;">competitive programming</span>.
 </p>
 
 <h2 align="center" style="font-size: 2em; color: #333; border-bottom: 2px solid #f5c6cb; padding-bottom: 10px; margin-bottom: 20px;">
